@@ -1,0 +1,10 @@
+.name{
+    font-size: xx-large;
+    color: black;
+}
+.name>span{
+    letter-spacing: 1rem;
+}
+.pokemon_details_Wrapper{
+    background-color: aquamarine;
+}
